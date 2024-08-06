@@ -1,3 +1,6 @@
+<img src="https://play-lh.googleusercontent.com/G7jAks-PRl4d7IkL-s3Ir44nGyPq0Yh872N5UMwZYIJz4wG1Oj0DqoQjsAR5ddKZbQ" alt="Amazon" title="Amazon" height="300" width="1200">
+
+
 🚀 Excited to Share My Latest Project: The Amazon Sales Dashboard! 🚀
 
 I’ve developed a comprehensive sales dashboard using Excel that provides insights into our sales performance across various cities and states, along with a detailed breakdown by product. 📊
