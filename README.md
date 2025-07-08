@@ -1,29 +1,48 @@
-<img src="https://play-lh.googleusercontent.com/G7jAks-PRl4d7IkL-s3Ir44nGyPq0Yh872N5UMwZYIJz4wG1Oj0DqoQjsAR5ddKZbQ" alt="Amazon" title="Amazon" height="300" width="1200">
+# 🛒 Amazon Sales Dashboard 2024
+
+## 📌 Project Objective
+
+### To design an interactive Excel dashboard that visualizes:
+- Total sales and unit performance
+- Geographic sales trends
+- Product-wise unit sales distribution
+
+## 📊 Key Performance Indicators
+
+### ✅ Total Sales: ₹1,02,26,625  
+### ✅ Total Units Sold: ₹33,874  
+### ✅ Number of Cities Covered: 23  
+
+## 🗺️ City-Wise Sales Distribution
+
+### 🔺 Delhi had the highest sales  
+### 🟡 Jodhpur, Agra, Darjeeling had lower sales  
+### Moderate performance in Mumbai, Patna, Pune
 
 
-🚀 Excited to Share My Latest Project: The Amazon Sales Dashboard! 🚀
+## 🏙️ State-Wise Sales
 
-I’ve developed a comprehensive sales dashboard using Excel that provides insights into our sales performance across various cities and states, along with a detailed breakdown by product. 📊
+### 🔝 Rajasthan & Delhi: Top contributors  
+### 📉 Goa, Gujarat, Bihar: Lower contributions  
+### 🟢 Kerala, Maharashtra: Balanced sales
 
-🔍 Key Highlights:
 
-Total Sales: ₹1,02,26,625
+## 📦 Product-Wise Units Sold
 
-Units Sold: 33,874
+### 🔝 Nestle Smarties Pop-Up: 5,267 units  
+### 📈 Nestle Fab, Aero Mint Potz, Milky Bar Stick also performed well  
+### ❄️ Lowest: Rowntree Screamers (969 units)
 
-Cities Covered: 23
+## 🛠️ Tools & Skills Used
 
-Top-Selling Product: Nestle Smarties Pop-Up (5,267 units)
+#### 📊 Excel:
+- Pivot Tables, Donut & Line Charts, Conditional Formatting
 
-💡 What You’ll Find in the Dashboard:
+#### 💡 Skills:
+- Trend Analysis, KPI Tracking, Dashboard Storytelling
 
-City-Wise Sales: Sales information for each city.
+## 💡 What I Learned
 
-State-Wise Sales: Comparison of sales across different states.
-
-Product-Wise Units: Overview of our best-selling products.
-
-This dashboard is instrumental in tracking sales performance, enabling smart decision-making, and enhancing customer satisfaction. 🌟
-
-I’m excited to leverage these insights for driving growth and success! Let’s continue making data-driven decisions! 📈
-
+#### ✅ Dashboard design  
+#### ✅ Excel data handling  
+#### ✅ Business insight development
